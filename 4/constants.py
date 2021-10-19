@@ -1,0 +1,3 @@
+PI = 3.1416
+WEEK_DAY = 7
+MONTH = 30
